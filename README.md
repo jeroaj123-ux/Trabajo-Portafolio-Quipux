@@ -1,0 +1,1 @@
+Este portafolio fue creado en base a una plantilla de bootstrap, y modificado y estilisado en base a mi gusto, espero que halla quedado bien.
